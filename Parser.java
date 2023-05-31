@@ -90,7 +90,7 @@ class Parser {
             str = lexer.getLexeme();
             verifyNextToken(Token.IDENTIFIER);
             str1 = lexer.getLexeme();             
-            Text txt = new Text(color,point,str+str1);
+            Text txt = new Text(color,point,str+" "+str1);
             scene.addImage(txt);
         } else {
              throw new SyntaxError(lexer.getLineNo(), "Unexpected image name " + imageToken);
