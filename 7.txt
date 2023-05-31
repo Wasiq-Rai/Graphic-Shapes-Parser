@@ -1,0 +1,3 @@
+Scene Polygons (500, 500)
+Rectangle Color (255, 0, 0) at (50, 30) Height 100 Width 300;
+End.

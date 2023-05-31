@@ -1,0 +1,5 @@
+Scene Polygons (500, 500)
+RightTriangle Color (255, 0, 0) at (50, 30) Height 100 Width 300;
+Rectangle Color (0, 128, 255) at (100, 100) Height 200 Width 100;
+RegularPolygon Color(255, 0, 255) at (300, 300) Sides 6 Radius 80;
+End. 

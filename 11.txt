@@ -1,0 +1,5 @@
+Scene Polygons (500, 500)
+Rectangle Color (128, 0, 0) at (200, 100) Height 200 Width 150;
+Isosceles Color (0, 128, 255) at (120, 300) Height 150 Width 180;
+RegularPolygon Color(255, 0, 255) at (300, 300) Sides 6 Radius 80;
+End.

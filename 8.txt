@@ -1,0 +1,5 @@
+Scene Polygons (500, 500)
+Isosceles Color (0, 128, 255) at (100, 100) Height 200 Width 100;
+Parallelogram Color (255, 0, 0) at (120, 120) (350, 250) Offset 30;
+Text Color(128, 0, 0) at (400, 300) Hello World;
+End.

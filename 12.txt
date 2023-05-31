@@ -1,0 +1,7 @@
+Scene Polygons (1200, 400)
+RightTriangle Color (128, 0, 0) at (100, 30) Height 80 Width 200;
+Rectangle Color (0, 255, 0) at (200, 80) Height 120 Width 80;
+Isosceles Color (128, 0, 255) at (220, 100) Height 100 Width 180;
+Parallelogram Color (0, 255, 128) at (420, 30) (520, 100) Offset 20;
+RegularPolygon Color(255, 0, 255) at (300, 300) Sides 6 Radius 80;
+End.
